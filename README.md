@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic recipe website, consisting of a main index page which will have links to a few recipes. This is to demonsrate HTML knowledge.# odin-recipes
